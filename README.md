@@ -1,4 +1,4 @@
-# Aulas Praticas / Julia e Vitor
+# Aulas Práticas / Júlia e Vitor
 Repositório de aulas práticas da disciplina BCC425 turma 21
 
 Alunos: 
